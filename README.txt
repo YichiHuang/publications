@@ -3,13 +3,13 @@ Papers during graduate studies
 Paper_645
 Title:	Investigating the stacked phonetic bottleneck feature for speaker verification with short voice commands
 Authors:	Yichi Huang and Yuexian Zou
-Submit to Interspeech 2017
+Accept by ACPR 2017
 -----------------------------------------------------------------------------------
 2. Paper#02:
 Paper_80
 Title: Enhancing speaker verification with short voice commands via autoencoder and phonetic bottleneck learning 
 Authors: Yichi Huang and Yuexian Zou
-Submit to DSP 2017
+Accept by DSP 2017
 -------------------------------------------------------------------------------------
 Papers during undergraduate studies
 1. Paper#01:
